@@ -7,7 +7,7 @@
 ### Pertanyaan
 
 ### Tugas 1
-![alt text](https://github.com/berlianafd/AR-DuckHunter/blob/main/Screenshot/Screenshot_1.jpg)
+![alt text](https://github.com/berlianafd/AR-DuckHunter/blob/main/Screenshot/Minggu13_Tugas1.png)
 
 ### Tugas 2
-![alt text](https://github.com/berlianafd/AR-DuckHunter/blob/main/Screenshot/Screenshot_2.jpg)
+![alt text](https://github.com/berlianafd/AR-DuckHunter/blob/main/Screenshot/Minggu13_Tugas2.png)
